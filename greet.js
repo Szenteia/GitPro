@@ -1,6 +1,7 @@
 function helloEverybody(name) {
-  console.log(`Hello ${name}`);
+  console.log(`Greetings for the ${name}`);
 }
 
-helloEverybody(Greeting);
-
+helloEverybody(`Bence`);
+helloEverybody(`Andris`);
+helloEverybody(`Irina`);
