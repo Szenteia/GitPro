@@ -1,4 +1,4 @@
-function count(age){
-    return (age)
+function count(age) {
+  return age;
 }
-count(29)
+count(12);
