@@ -1,4 +1,4 @@
-function count(age) {
-  return age;
+function count(age, month) {
+  console.log(age, month);
 }
-count("december");
+count(12, 'december');
