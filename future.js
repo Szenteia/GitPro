@@ -1,3 +1,4 @@
-function greet() {
-  console.log('My horoscope is bika');
+
+function greet(param) {
+  console.log(`My horoscope is ' + ${param}`);
 }
