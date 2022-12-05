@@ -1,4 +1,4 @@
-function cheer(){
-    console.log("Name of our Team");
+function cheer(char){
+    console.log("Name of our Team" + char);
 }
-cheer();
+cheer("\u2665");
