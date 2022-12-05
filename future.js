@@ -1,4 +1,5 @@
-function greet(parameter) {
-  console.log(`Your future looks like:${parameter}`);
+
+function greet(parameter, parameter2) {
+  console.log(`My horoscope is ' + ${parameter} + ' and my favorite color is ' + ${parameter2}`);
 }
-greet("kakas");
+greet("kakas", "blue");
