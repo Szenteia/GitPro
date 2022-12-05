@@ -1,4 +1,4 @@
 function count(age) {
   return age;
 }
-count("december");
+count("Counting the countless parameter");
