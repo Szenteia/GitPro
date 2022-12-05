@@ -1,4 +1,4 @@
 function count(age){
-    console.log(age)
+    return (age)
 }
 count(29)
