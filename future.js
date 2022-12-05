@@ -1,5 +1,5 @@
 
-function greet(param) {
-  console.log(`My horoscope is ' + ${param}`);
+function greet(params) {
+  console.log(`My horoscope is ' + ${params}`);
 }
 greet("kakas");
